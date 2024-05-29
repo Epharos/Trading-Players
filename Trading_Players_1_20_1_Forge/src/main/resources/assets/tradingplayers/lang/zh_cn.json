@@ -1,0 +1,23 @@
+{
+    "chat.trade.noanswer.asker":"§l%s§r 没有响应...",
+    "chat.trade.noanswer.responder":"您没有回答给 §l%s",
+    "chat.trade.success":"与 §l%s§r 的交易是 §2交易成功§r!",
+    "chat.trade.cancelled":"与 §l%s§r 的交易被 §4取消",
+    "chat.trade.refused.asker":"§l%s§r 拒绝了您的交易请求",
+    "chat.trade.refused.responder":"您拒绝了 §l%s§r 的交易请求",
+    "chat.trade.error.nopending":"您没有待处理的交易请求",
+    "chat.trade.error.hasasked":"您已经问过某人，等待他们回复",
+    "chat.trade.error.haspending":"您有一个待处理的请求",
+    "chat.trade.error.player.haspending":"§l%s§r 已经与其他人有待处理的请求",
+    "chat.trade.error.istrading":"§l%s§r 已经在交易",
+    "chat.trade.error.themselves":"您不能邀请自己进行交易",
+    "chat.trade.invite.receiver":"§l%s§r 希望与您交易",
+    "chat.trade.invite.sender":"您邀请 §l%s§r 进行交易",
+    "chat.trade.error.tofar":"您与 §l%s§r 距离太远",
+    "chat.trade.canceled.player":"您取消了与 §l%s§r 的交易报价",
+    "chat.trade.canceled.trader":"§l%s§r 取消了交易报价",
+    "chat.trade.ignored":"您不能向 §l%s§r 发送交易报价",
+    "chat.trade.ignore.success":"§l%s§r 忽略，他们将无法再向您发送交易报价",
+    "chat.trade.ignore.cancel":"§l%s§r 不予理会，他们将能够再次向您发送交易报价",
+    "trade.name":"交易画面"
+}
