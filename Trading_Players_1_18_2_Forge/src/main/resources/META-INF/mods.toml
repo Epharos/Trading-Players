@@ -1,0 +1,41 @@
+modLoader="javafml"
+
+loaderVersion="[40,)"
+
+license="GPL-3.0-or-later"
+
+#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/"
+
+[[mods]]
+
+modId="tradingplayers"
+
+version="${file.jarVersion}"
+
+displayName="Trading Players"
+
+displayURL="https://www.curseforge.com/minecraft/mc-mods/trading-players"
+
+# logoFile="examplemod.png"
+
+credits="Elkyos rest in peace champ, MinecraftForgeFrance ftw and Eraklys because that's my project"
+
+authors="Epharos"
+
+description='''
+You can now trade items with people safely with a cool GUI
+'''
+
+[[dependencies.tradingplayers]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.tradingplayers]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,23 @@
+{
+  "chat.trade.noanswer.asker": "§l%s§r no respondió...",
+  "chat.trade.noanswer.responder": "No respondiste a §l%s",
+  "chat.trade.success": "¡El intercambio con §l%s§r fue §2exitoso§r!",
+  "chat.trade.cancelled": "El intercambio con §l%s§r fue §4cancelado",
+  "chat.trade.refused.asker": "§l%s§r rechazó tu oferta de intercambio",
+  "chat.trade.refused.responder": "Rechazaste la oferta de intercambio de §l%s§r",
+  "chat.trade.error.nopending": "No tienes ninguna oferta de intercambio pendiente",
+  "chat.trade.error.hasasked": "Ya le has pedido a alguien, espera a que respondan o cancela",
+  "chat.trade.error.haspending": "Tienes una solicitud pendiente",
+  "chat.trade.error.player.haspending": "§l%s§r ya tiene una solicitud pendiente",
+  "chat.trade.error.istrading": "§l%s§r ya está en un intercambio",
+  "chat.trade.error.themselves": "No puedes invitarte a ti mismo a un intercambio",
+  "chat.trade.invite.receiver": "¡§l%s§r quiere intercambiar contigo!",
+  "chat.trade.invite.sender": "¡Invitaste a §l%s§r a un intercambio!",
+  "chat.trade.error.tofar": "§l%s§r está demasiado lejos",
+  "chat.trade.canceled.player": "Cancelaste la oferta de intercambio con §l%s§r",
+  "chat.trade.canceled.trader": "§l%s§r canceló la oferta de intercambio",
+  "chat.trade.ignored": "No puedes enviar una oferta de intercambio a §l%s§r",
+  "chat.trade.ignore.success": "Ignoraste a §l%s§r, no podrán enviarte más ofertas de intercambio",
+  "chat.trade.ignore.cancel": "Ya no ignoras a §l%s§r, podrán enviarte ofertas de intercambio nuevamente",
+  "trade.name": "Pantalla de Intercambio"
+}
